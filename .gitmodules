@@ -1,0 +1,9 @@
+[submodule "hoster-upload"]
+	path = hoster-upload
+	url = https://github.com/Ninad3721/hoster-upload
+[submodule "hoster-deploy"]
+	path = hoster-deploy
+	url = https://github.com/Ninad3721/hoster-deploy
+[submodule "hoster-request-handler"]
+	path = hoster-request-handler
+	url = https://github.com/Ninad3721/hoster-request-handler
